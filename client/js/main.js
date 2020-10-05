@@ -31,3 +31,5 @@ Accounts.ui.config({
 	passwordSignupFields: 'USERNAME_ONLY'
 });
 
+This is main JS edit 1
+
