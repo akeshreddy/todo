@@ -1,0 +1,18 @@
+body {
+  padding: 10px;
+  font-family: sans-serif;
+}
+.delete-todo{
+  float: right;
+  font-weight: bold;
+  background: none;
+  position: relative;
+  border: 0;
+  font-size: 1rem;
+  color: rgb(250, 0, 0);
+}
+
+.checked{
+  text-decoration: line-through;
+  color: #ccc;
+}
