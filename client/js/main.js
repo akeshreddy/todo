@@ -32,4 +32,5 @@ Accounts.ui.config({
 });
 
 This is main JS edit 1
+This is main JS edit 2
 
